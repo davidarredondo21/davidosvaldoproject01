@@ -1,0 +1,46 @@
+
+
+
+.button , .next-to-con{
+width: 50px;
+background: none;
+border: none;
+left: 100%;
+float: left;
+}
+
+
+
+.font{
+    width: 100px;
+}
+
+.container2, .hehe1 , .image1{
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    margin: 20px;
+    transition: 0.5s;
+    object-fit: contain;
+    border: none;
+    background: none;
+    
+}
+
+i  , .font{
+    animation-name: example;
+    animation-duration: 4s;
+    
+}
+
+
+
+
+
+.image1:hover{
+transform: scale(1.2);
+
+}
+
+
+
